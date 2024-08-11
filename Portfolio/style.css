@@ -80,8 +80,9 @@ nav ul li a:hover{
 }
 
 .rightsection img{
-    width: 80%;
+    width: 90%;
     margin: 50px 0;
+    border-radius: 50%;
 }
 
 .purple{
